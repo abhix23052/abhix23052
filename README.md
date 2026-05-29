@@ -1,8 +1,13 @@
-# Hi, I'm Abhilash 👋
+# Hi, I'm Abhilash Patnaik 👋
 
-## Full Stack Developer
+### Full Stack Developer
 
-### Skills
+Passionate about building responsive websites and web applications using PHP, MySQL, JavaScript, and WordPress.
+
+---
+
+## Tech Stack
+
 - HTML5
 - CSS3
 - JavaScript
@@ -11,21 +16,37 @@
 - WordPress
 - Git & GitHub
 
-### Projects
+---
 
-#### Student Database Management System
-Built a DBMS project using MySQL and SQL for managing student records.
+## Featured Projects
 
-#### MyStartupYatra
-Startup information platform built with WordPress, PHP and MySQL.
+### MyStartupYatra
+Startup information platform built using WordPress, PHP, and MySQL.
 
-#### Contact Book Application
-Python-based contact management application with CRUD operations.
+### Student Database Management System
+Database project developed using SQL and MySQL for student record management.
 
-### Education
-B.Tech in Computer Science
+### Contact Book Application
+Python-based CRUD application for contact management.
 
-### Contact
-LinkedIn: https://www.linkedin.com/in/abhilash-patnaik-44a2143b9/
-<br>
-Email: abhipatnaik23@gmail.com
+---
+
+## Currently Learning
+
+- React.js
+- Node.js
+- REST APIs
+- Data Structures & Algorithms
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/abhilash-patnaik-44a2143b9/
+- Email: abhipatnaik23@gmail.com
+
+---
+
+## Career Objective
+
+Seeking opportunities as a Full Stack Developer where I can build real-world applications and continue improving my backend and frontend development skills.
