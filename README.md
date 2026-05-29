@@ -1,8 +1,8 @@
-# Hi, I'm Abhilash Patnaik 👋
+# Hi, I'm Abhilash Patnaik
 
-### Full Stack Developer
+## Full Stack Developer
 
-Passionate about building responsive websites and web applications using PHP, MySQL, JavaScript, and WordPress.
+Aspiring Full Stack Developer with experience in PHP, MySQL, JavaScript, WordPress, and database-driven web applications. Passionate about building responsive websites, solving real-world problems, and continuously improving my development skills.
 
 ---
 
@@ -14,20 +14,28 @@ Passionate about building responsive websites and web applications using PHP, My
 - PHP
 - MySQL
 - WordPress
+- Python
 - Git & GitHub
 
 ---
 
 ## Featured Projects
 
-### MyStartupYatra
-Startup information platform built using WordPress, PHP, and MySQL.
-
 ### Student Database Management System
-Database project developed using SQL and MySQL for student record management.
+A MySQL-based DBMS project designed to manage student records efficiently using SQL queries, CRUD operations, and relational database concepts.
 
 ### Contact Book Application
-Python-based CRUD application for contact management.
+A Python-based contact management system that allows users to create, update, search, and delete contacts using CRUD operations.
+
+### Flappy Bird Game
+A Java-based Flappy Bird clone featuring obstacle generation, collision detection, score tracking, and interactive gameplay.
+
+---
+
+## Education
+
+**Bachelor of Technology (B.Tech)**  
+Computer Science & Engineering
 
 ---
 
@@ -37,16 +45,28 @@ Python-based CRUD application for contact management.
 - Node.js
 - REST APIs
 - Data Structures & Algorithms
+- Full Stack Web Development
+
+---
+
+## Career Objective
+
+Seeking opportunities as a Full Stack Developer where I can contribute to real-world projects, strengthen my technical expertise, and grow as a software engineer.
 
 ---
 
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/abhilash-patnaik-44a2143b9/
+- GitHub: https://github.com/abhix23052/
 - Email: abhipatnaik23@gmail.com
 
 ---
 
-## Career Objective
+## Technical Interests
 
-Seeking opportunities as a Full Stack Developer where I can build real-world applications and continue improving my backend and frontend development skills.
+- Web Development
+- Database Design
+- Backend Development
+- Full Stack Applications
+- Open Source Learning
